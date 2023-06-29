@@ -1,19 +1,19 @@
 # training-pythonforbusiness
 
-Google: "Jupyter Lab Desktop Git Hub README.md File \n
+Google: "Jupyter Lab Desktop Git Hub README.md File \
 \n
-Select Operating System, ex. "Windows Installer"    \n
-Click: "JupyterLab-Setup.exe \n
-    Install \n
-    Finish \n
-If prompted: Trusted Source "Open" \n
-Click "Lab" Icon to run program \n
-Open Notebook \n
-Click Plus Sign To Open Notebook \n
-Create New Folder ".ipnyb"  \n
-Right Click to rename \n
-Initialize Python 3 \n
-Create Open AI Account \n
+Select Operating System, ex. "Windows Installer"    \
+Click: "JupyterLab-Setup.exe \
+    Install \
+    Finish \
+If prompted: Trusted Source "Open" \
+Click "Lab" Icon to run program \
+Open Notebook \
+Click Plus Sign To Open Notebook \
+Create New Folder ".ipnyb"  \
+Right Click to rename \
+Initialize Python 3 \
+Create Open AI Account \
 1.  Google OpenAI
 2.  Click OpenAI website: "OpenAI.com"
 3.  Create Account
