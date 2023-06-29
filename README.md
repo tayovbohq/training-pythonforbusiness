@@ -1,7 +1,6 @@
-# training-pythonforbusiness
+# Training-PythonforBusiness
 
-"Notes for Jupyter Lab Desktop from Training Session June 29,2023"
-Git Hub README.md File
+"Notes for Jupyter-Lab Desktop Setup from Training Session June 29,2023" \
 
 
 ```python
